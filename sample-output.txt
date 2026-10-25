@@ -1,0 +1,11 @@
+QueueWise - Queue Wait-Time Intelligence
+
+QUEUE 1                    QUEUE 2
+People ahead: 5            People ahead: 3
+Service time: 3 min        Service time: 4 min
+Waiting time: 15 min       Waiting time: 12 min
+
+Queue Comparison:
+Queue 2 is faster.
+
+Thank you for using QueueWise!
